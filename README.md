@@ -3,6 +3,7 @@
 <h3 align="center">A passionate Ai engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitpawar001&label=Profile%20views&color=0e75b6&style=flat" alt="rohitpawar001" /> </p>
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/RohitPawar001/RohitPawar001/main/bg.png">
 
 - 🌱 I’m currently learning **deep learning**
 
@@ -15,7 +16,6 @@
 - ⚡ Fun fact **I think I am Creative Person**
 
 <h3 align="left">Connect with me:</h3>
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/RohitPawar001/RohitPawar001/main/bg.png">
 <p align="left">
 <a href="https://twitter.com/@_rohit_pawar_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@_rohit_pawar_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rohitppawar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohitppawar" height="30" width="40" /></a>
