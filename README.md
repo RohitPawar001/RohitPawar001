@@ -1,7 +1,7 @@
-[![MasterHead]((https://raw.githubusercontent.com/RohitPawar001/RohitPawar001/main/image.png))](https://RohitPawar001.io)
+[![MasterHead](https://raw.githubusercontent.com/RohitPawar001/RohitPawar001/main/image.png)](https://RohitPawar001.io)
 <h1 align="center">Hi 👋, I'm Rohit Pawar</h1>
 <h3 align="center">A passionate Ai engineer from India</h3>
-<img align="right" alt="coding" width="400" src="https://https://png.pngtree.com/png-clipart/20231109/original/pngtree-programmer-it-developer-png-image_13520483.png.png">
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/RohitPawar001/RohitPawar001/main/bg.png">
 
 - 📫 How to reach me **rppawar491@gmail.com**
 
