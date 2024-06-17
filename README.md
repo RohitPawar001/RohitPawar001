@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Ai engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitpawar001&label=Profile%20views&color=0e75b6&style=flat" alt="rohitpawar001" /> </p>
-<img align="right" alt="coding" width="300" src="https://raw.githubusercontent.com/RohitPawar001/RohitPawar001/main/bg.png">
+<img align="right" alt="coding" width="350" src="https://raw.githubusercontent.com/RohitPawar001/RohitPawar001/main/bg.png">
 
 - 🌱 I’m currently learning **deep learning**
 
