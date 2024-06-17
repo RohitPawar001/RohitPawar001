@@ -1,4 +1,4 @@
-[![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--7-s6BXGM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/th2i72qu0rnt6hr9zn43.jpg)](https://RohitPawar001.io)
+[![MasterHead]((https://raw.githubusercontent.com/RohitPawar001/RohitPawar001/main/image.png))](https://RohitPawar001.io)
 <h1 align="center">Hi 👋, I'm Rohit Pawar</h1>
 <h3 align="center">A passionate Ai engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://https://png.pngtree.com/png-clipart/20231109/original/pngtree-programmer-it-developer-png-image_13520483.png.png">
