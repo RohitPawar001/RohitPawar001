@@ -1,6 +1,6 @@
 [![MasterHead](https://raw.githubusercontent.com/RohitPawar001/RohitPawar001/main/image.png)](https://RohitPawar001.io)
 <h1 align="center">Hi 👋, I'm Rohit Pawar</h1>
-<h3 align="center">A passionate Ai engineer from India</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitpawar001&label=Profile%20views&color=0e75b6&style=flat" alt="rohitpawar001" /> </p>
 
