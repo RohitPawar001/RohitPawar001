@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/RohitPawar001/RohitPawar001/main/image.png)](https://RohitPawar001.io)
+<!-- [![MasterHead](https://raw.githubusercontent.com/RohitPawar001/RohitPawar001/main/image.png)](https://RohitPawar001.io) -->
 <h1 align="center">Hi 👋, I'm Rohit Pawar</h1>
 
 
