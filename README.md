@@ -1,9 +1,6 @@
 <!-- [![MasterHead](https://raw.githubusercontent.com/RohitPawar001/RohitPawar001/main/image.png)](https://RohitPawar001.io) -->
 <h1 align="center">Hi 👋, I'm Rohit Pawar</h1>
 
-
-
-
 <h2>💫 About Me</h2> 
 <img align="right" alt="coding" width="350" src="https://raw.githubusercontent.com/RohitPawar001/RohitPawar001/main/bg.png">
 - 🌱 I’m currently learning **deep learning**
