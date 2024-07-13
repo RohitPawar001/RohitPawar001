@@ -16,7 +16,7 @@
   <br>
   <br>
   <br>
-## 🌐 Socials:
+<!-- ## 🌐 Socials:
 
 <p align="left">
 <a href="https://twitter.com/@_rohit_pawar_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@_rohit_pawar_" height="30" width="40" /></a>
@@ -24,7 +24,7 @@
   <br>
   <br>
   <br>
-</p>
+</p> -->
 
 # 💻 Tech Stack:
 <h3 align="left">Languages and Tools:</h3>
