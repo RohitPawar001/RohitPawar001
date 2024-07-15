@@ -1,7 +1,7 @@
 
 # 💫 About Me
 <img align="right" alt="Coding" width="400" src="https://github.com/RohitPawar001/RohitPawar001/blob/main/bg.png?raw=true"/>
-<p>🔭 <b>I’m currently working on:</b>  <br>   Improving Deep Learning skills </p> <br> <p>👯  <b>I’m looking to collaborate on:<b/>  <br>   ML projects  </p><br> <p>🌱 <b>I’m currently learning:</b>  <br>   Deep Learning  </p><br> <br> <p>💬 <b>Ask me about:</b>  <br>   Python, MySQL, DS, ML, DL, Gen AI, AI. <br> </p><br> <p>⚡ <b>Fun fact:<b/>  <br>   I am a Creative & Visionary person. </p>
+🔭 <b>I’m currently working on:</b>  <br>   Improving Deep Learning skills <br> 👯  <b>I’m looking to collaborate on:<b/>  <br>   ML projects  <br> 🌱 <b>I’m currently learning:</b>  <br>   Deep Learning  <br> <br> 💬 <b>Ask me about:</b>  <br>   Python, MySQL, DS, ML, DL, Gen AI, AI. <br> <br> ⚡ <b>Fun fact:<b/>  <br>   I am a Creative & Visionary person. 
 
   <br>
   <br>
