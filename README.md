@@ -1,21 +1,10 @@
-<!-- [![MasterHead](https://raw.githubusercontent.com/RohitPawar001/RohitPawar001/main/image.png)](https://RohitPawar001.io) 
-<h1 align="center">Hi 👋, I'm Rohit Pawar</h1>-->
 
 # 💫 About Me
 <img align="right" alt="Coding" width="400" src="https://github.com/RohitPawar001/RohitPawar001/blob/main/bg.png?raw=true"/>
-🔭 *I’m currently working on:*  <br>   Improving Deep Learning skills<br><br>👯 *I’m looking to collaborate on:*  <br>   ML projects<br><br>🌱 *I’m currently learning:*  <br>   Deep Learning<br><br>💬 *Ask me about:*  <br>   Python, MySQL, DS, ML, DL, Gen AI, AI. <br><br>⚡ *Fun fact:*  <br>   I am a Creative & Visionary person.
+🔭 <b>I’m currently working on:</b>  <br>   Improving Deep Learning skills<br><br>👯 <b>I’m looking to collaborate on:<b/>  <br>   ML projects<br><br>🌱 <b>I’m currently learning:</b>  <br>   Deep Learning<br><br>💬 <b>Ask me about:</b>  <br>   Python, MySQL, DS, ML, DL, Gen AI, AI. <br><br>⚡ <b>Fun fact:<b/>  <br>   I am a Creative & Visionary person.
 
   <br>
   <br>
-<!--   <br>
-## 🌐 Socials:
-
-<p align="left">
-<a href="https://twitter.com/@_rohit_pawar_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@_rohit_pawar_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rohitppawar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohitppawar" height="30" width="40" /></a>
-  <br>
-  <br>
-</p> -->
 
 # 💻 Tech Stack:
 
@@ -37,17 +26,3 @@
   <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
 </p>
-
-
-
-
-
-<!--# 📊 GitHub Stats:
-
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=rohitpawar001&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="rohitpawar001" /></p>-->
-
-
-<!-- <br> <br>-->
-
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitpawar001&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="rohitpawar001" /></p> -->
-
