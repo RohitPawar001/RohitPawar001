@@ -1,6 +1,6 @@
 <!-- [![MasterHead](https://raw.githubusercontent.com/RohitPawar001/RohitPawar001/main/image.png)](https://RohitPawar001.io) 
 <h1 align="center">Hi 👋, I'm Rohit Pawar</h1>-->
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=rohitpawar001&label=Profile%20views&color=0e75b6&style=flat" alt="rohitpawar001" /> </p>
+
 # 💫 About Me
 <img align="right" alt="Coding" width="400" src="https://github.com/RohitPawar001/RohitPawar001/blob/main/bg.png?raw=true"/>
 🔭 **I’m currently working on:**  <br>Improving Deep Learning skills<br><br>👯 **I’m looking to collaborate on:**  <br>ML projects<br><br>🌱 **I’m currently learning:**  <br>Deep Learning<br><br>💬 **Ask me about:**  <br>Python, MySQL, DS, ML, DL, Gen AI, AI. <br><br>⚡ **Fun fact:**  <br>I am a Creative & Visionary person.
