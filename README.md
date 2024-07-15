@@ -2,16 +2,7 @@
 <h1 align="center">Hi 👋, I'm Rohit Pawar</h1>-->
 
 # 💫 About Me
-<img align="right" alt="coding" width="350" src="https://raw.githubusercontent.com/RohitPawar001/RohitPawar001/main/bg.png">
-- 🌱 I’m currently learning **deep learning**
-
-- 🤝 I’m looking for help with **learning Ai**
-
-- 💬 Ask me about **python, mysql, ml, Ai**
-
-- 📫 How to reach me **rppawar491@gmail.com**
-
-- ⚡ Fun fact **I think I am Creative Person**
+🔭 **I’m currently working on:**  <br>Improving Deep Learning skills<br><br>👯 **I’m looking to collaborate on:**  <br>ML projects<br><br>🌱 **I’m currently learning:**  <br>Deep Learning<br><br>💬 **Ask me about:**  <br>Python, MySQL, DS, ML, DL, Gen AI, AI. <br><br>⚡ **Fun fact:**  <br>I am a Creative & Visionary person.
   <br>
   <br>
   <br>
