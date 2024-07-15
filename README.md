@@ -1,7 +1,7 @@
-<!-- [![MasterHead](https://raw.githubusercontent.com/RohitPawar001/RohitPawar001/main/image.png)](https://RohitPawar001.io) -->
-<h1 align="center">Hi 👋, I'm Rohit Pawar</h1>
+<!-- [![MasterHead](https://raw.githubusercontent.com/RohitPawar001/RohitPawar001/main/image.png)](https://RohitPawar001.io) 
+<h1 align="center">Hi 👋, I'm Rohit Pawar</h1>-->
 
-<h2>💫 About Me</h2> 
+# 💫 About Me
 <img align="right" alt="coding" width="350" src="https://raw.githubusercontent.com/RohitPawar001/RohitPawar001/main/bg.png">
 - 🌱 I’m currently learning **deep learning**
 
@@ -27,7 +27,7 @@
 </p> -->
 
 # 💻 Tech Stack:
-<h2>Tech Stack:</h2>
+
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
