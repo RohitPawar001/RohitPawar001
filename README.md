@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Rohit Pawar</h1>-->
 
 # 💫 About Me
-🔭 **I’m currently working on:**  <br>Improving Deep Learning skills<br><br>👯 **I’m looking to collaborate on:**  <br>ML projects<br><br>🌱 **I’m currently learning:**  <br>Deep Learning<br><br>💬 **Ask me about:**  <br>Python, MySQL, DS, ML, DL, Gen AI, AI. <br><br>⚡ **Fun fact:**  <br>I am a Creative & Visionary person.
 <img align="right" alt="Coding" width="400" src="https://github.com/RohitPawar001/RohitPawar001/blob/main/bg.png?raw=true"/>
-  <br>
+🔭 **I’m currently working on:**  <br>Improving Deep Learning skills<br><br>👯 **I’m looking to collaborate on:**  <br>ML projects<br><br>🌱 **I’m currently learning:**  <br>Deep Learning<br><br>💬 **Ask me about:**  <br>Python, MySQL, DS, ML, DL, Gen AI, AI. <br><br>⚡ **Fun fact:**  <br>I am a Creative & Visionary person.
+
   <br>
   <br>
 <!--   <br>
