@@ -26,3 +26,5 @@
   <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
 </p>
+
+![Your Name's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RohitPawar001))
