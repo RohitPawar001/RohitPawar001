@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>3D GitHub Contribution Chart</title>
+  <style>
+    body { margin: 0; }
+    canvas { display: block; }
+  </style>
+</head>
+<body>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+  <script>
+    // Initialize the scene
+    const scene = new THREE.Scene();
+    const camera = new THREE.PerspectiveCamera(75, window.innerWidth / window.innerHeight, 0.1, 1000);
+    const renderer = new THREE.WebGLRenderer();
+    renderer.setSize(window.innerWidth, window.innerHeight);
+    document.body.appendChild(renderer.domElement);
+
+    // Example contribution data (replace with actual data)
+    const data = [
+      { week: 1, days: [0, 1, 2, 3, 4, 5, 6] },
+      { week: 2, days: [1, 2, 3, 4, 5, 6, 7] },
+      { week: 3, days: [2, 3, 4, 5, 6, 7, 8] },
+      // Add more weeks and days as needed
+    ];
+
+    // Create a grid of cubes
+    const geometry = new THREE.BoxGeometry();
+    data.forEach((week, i) => {
+      week.days.forEach((count, j) => {
+        const material = new THREE.MeshBasicMaterial({ color: getColor(count) });
+        const cube = new THREE.Mesh(geometry, material);
+        cube.position.set(i, count / 2, j);
+        cube.scale.y = count;
+        scene.add(cube);
+      });
+    });
+
+    camera.position.z = 50;
+
+    // Animation loop
+    function animate() {
+      requestAnimationFrame(animate);
+      renderer.render(scene, camera);
+    }
+    animate();
+
+    // Helper function to get color based on contribution count
+    function getColor(count) {
+      if (count > 20) return 0x00ff00; // Dark green
+      if (count > 10) return 0x66ff66; // Medium green
+      if (count > 0) return 0xccffcc; // Light green
+      return 0xffffff; // White
+    }
+  </script>
+</body>
+</html>
