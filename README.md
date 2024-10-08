@@ -14,7 +14,18 @@
 
 🌟 **Let's Connect**: Whether you want to chat about AI, brainstorm new ideas, or collaborate on a cool project, I’d love to hear from you. Don’t hesitate to reach out!
 
+# 📊 GitHub Stats
 
+<table class="center" style="width:100%;">
+  <tr>
+    <td align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RohitPawar001&count_private=true&show_icons=true&theme=onedark&hide_border=true" />
+    </td>
+    <td align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitPawar001&langs_count=10&layout=compact&theme=onedark&hide_border=true" />
+</td>
+  </tr>
+</table>
 
 # 💻 Tech Stack:
 
