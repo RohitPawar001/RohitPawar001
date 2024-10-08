@@ -1,7 +1,7 @@
 
 # 💫 About Me
 <img align="right" alt="Coding" width="400" src="https://github.com/RohitPawar001/RohitPawar001/blob/main/bg.png?raw=true"/>
-🔭 <b>I’m currently working on:</b>  <br>   I'm passionate about Artificial Intelligence, Deep Learning, Machine Learning, Computer Vision and Natural Language Processing. <br><br> 👯  <b>I’m currently focused on to build the solution's of the critical problems which will leads the life 3.0 sustainabily by teaching the the artificially inteligent mechines via Machine learning, Deep Learning , Natural Language Processing, Computer Vision. <br> <br>🌱 <b>I’m currently learning:</b>  <br>   Deep Learning  <br> <br> 💬 <b>Ask me about:</b>  <br>   Python, MySQL, DS, ML, DL, Gen AI, AI. <br> <br> ⚡ <b>Fun fact:<b/>  <br>   I am a Creative & Visionary person. 
+🔭 <b>I’m currently working on:</b>  <br>   I'm passionate about Artificial Intelligence, Deep Learning, Machine Learning, Computer Vision and Natural Language Processing. <br><br> 👯  <b>I’m currently focused on to build the solution's of the critical problems which will leads the life 3.0 sustainabily by teaching the the artificially inteligent mechines via Machine learning, Deep Learning , Natural Language Processing, Computer Vision. <br> <br>🌱 <b>I pursuid the Baclers in computer science Engineering from savitribai phule pune university .</b>  <br> 💬 <b>Ask me about:</b>  <br>   Python, MySQL, DS, ML, DL, Gen AI, AI. <br> <br> ⚡ <b>Fun fact:<b/>  <br>   I am a Creative & Visionary person. 
 
   <br>
   <br>
