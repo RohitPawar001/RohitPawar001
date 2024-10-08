@@ -14,18 +14,7 @@
 
 🌟 **Let's Connect**: Whether you want to chat about AI, brainstorm new ideas, or collaborate on a cool project, I’d love to hear from you. Don’t hesitate to reach out!
 
-# 📊 GitHub Stats
 
-<table class="center" style="width:100%;">
-  <tr>
-    <td align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RohitPawar001&count_private=true&show_icons=true&theme=onedark&hide_border=true" />
-    </td>
-    <td align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitPawar001&langs_count=10&layout=compact&theme=onedark&hide_border=true" />
-</td>
-  </tr>
-</table>
 
 # 💻 Tech Stack:
 
@@ -48,4 +37,26 @@
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
 </p>
 
+### Connect
 
+<a href="https://linkedin.com/in/rohitppawar">
+  <img align="left" alt="Rohit pawar's LinkedIn" width="20px" height="20px" src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-14linkedin-4102586_113786.png" />
+</a>
+
+<a href="https://twitter.com/_rohit_pawar_">
+  <img align="left" alt="Rohit pawar's Twitter" width="20px" height="20px" src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-6twitter-4102580_113802.png" />
+</a>
+<br/>
+
+# 📊 GitHub Stats
+
+<table class="center" style="width:100%;">
+  <tr>
+    <td align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RohitPawar001&count_private=true&show_icons=true&theme=onedark&hide_border=true" />
+    </td>
+    <td align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitPawar001&langs_count=10&layout=compact&theme=onedark&hide_border=true" />
+</td>
+  </tr>
+</table>
