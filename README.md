@@ -2,7 +2,7 @@
 # 💫 About Me
 <img align="right" alt="Coding" width="400" src="https://github.com/RohitPawar001/RohitPawar001/blob/main/bg.png?raw=true"/>
 
-👋 Hi there! I'm Rohit Pawar, an AI engineer with a knack for creativity and a vision to transform the world of technology. My journey through AI has been fueled by an insatiable curiosity and a relentless drive to innovate.
+👋 Hi there! I'm Rohit Pawar, an AI enthusiast with a knack for creativity and a vision to transform the world of technology. My journey through AI has been fueled by an insatiable curiosity and a relentless drive to innovate.
 
 💡 **Blending Creativity with Engineering**: I love tackling complex problems and turning them into smart, intuitive solutions. My expertise spans machine learning, deep learning, and neural networks. I'm passionate about making AI both accessible and impactful.
 
